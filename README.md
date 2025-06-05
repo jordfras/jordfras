@@ -1,7 +1,8 @@
 I'm Thomas Johannesson!
 
 I'm a MSc in Computer Science and Engineering and I've been working professionally with software
-since the late 90's, mainly as a C++ developer in embedded Linux environments.
+since the late 90's, mainly as a C++ developer in embedded Linux environments. Nowadays I prefer
+coding in Rust.
 
 I currently work as a freelance developer in my company [Code 42d](http://www.code42d.se).
 
